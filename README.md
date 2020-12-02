@@ -6,3 +6,15 @@ Please fork the following CodePen to get started: https://codepen.io/dotdash/pen
 
 Your application should be composed of a simple search box that upon enter or click of the "Search" button, triggers a search using a (provided) REST endpoint which proxies Goodreads' public APIs, transforms it into JSON, and adds CORS headers for client-side use. The results of the API call should be displayed in your app. 
 
+Bonus Points:
+
+1. Include pagination in the UI.
+
+2. Use components to render each book listing.
+
+3. The metadata returned by the existing REST Runkit endpoint is somewhat limited. Fork the linked Runkit and expand the information returned to include additional data of your choice.
+https://www.goodreads.com/api/index#search.books
+
+Buttons/Popups: https://codepen.io/pen?template=703a804726dcac49f779190d1cdcdc51
+
+Newsletter: https://codepen.io/pen?template=8c96d24eb9bdce9f07c3b3f84b69f5f9
